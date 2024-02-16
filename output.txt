@@ -1,0 +1,1040 @@
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 1 of 36 
+ 
+$~J-34 
+* IN  THE  HIGH  COURT  OF  DELHI  AT  NEW  DELHI  
+   Pronounced on: 20.12.2023  
++  O.M.P. (COMM) 249/2020 & IA Nos. 15077/2015, 15078/2015 
+ 
+ M/S GAS AUTHORITY OF INDIA LTD .                       .... Petitioner  
+Through:  Ms. Madhavi  Diwan, ASG along with 
+Mr. Kapil  Sankhla, Mr. Sahil  Monga,  
+Mr. Akhilesh Aggarwal, and 
+Mr.Shubhum  Saigal, Advs.  
+    versus  
+  M/S JSW ISPAT STEEL LTD.                                        ... Respondent  
+Through:  Mr. Parag P. Tripathi, Sr. Adv. with 
+Mr. Ramesh Singh, Sr. Adv. 
+alongwith Mr. Rishi Agrawala, Mr. 
+Karan  Luthra, Ms. Shruti Arora and 
+Mr.Srinivasan, Advs.  
+ CORAM:  
+ HON'BLE MR. JUSTICE SACHIN DATTA 
+    
+JUDGMENT
+1. The present petition under  Section 34 of the Arbitration and 
+Conciliation Act, 1996  (hereinafter referred to as "the A&C Act") assails an 
+arbitral award dated 06.09.2013.     
+2. Vide the impugned award, the arbitral tribunal has awarded a sum of 
+Rs.14.67 crores in favour of the respondent herein towards refund of fix ed 
+transportation charges proportion ate to the reduce d supply of gas by GAIL 
+under the Contract dated 10.09.1991, as amended on 30.03.1998,  with 
+interest at the rate of 6% per annum from 29.12.2000 till date of payment. 
+Further, the award contemplates that in the event of failure on the part of the 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 2 of 36 
+ 
+petitioner herein to satisfy the award within a period of three months from 
+the date thereof , the respondent (claimant) shall be entitled to recover the 
+awarded sum from the date of the arbitral award with interest at the rate of 18% per annum until payment/realization.  3. The respondent (claimant) operates a sponge iron and hot rolled plant 
+located at Dolvi in the District of Raigharh, Maharashtr a.  
+4. It was averred in the statement of claim that in order to meet its 
+requirement for gas, the claimant entered into a Contract dated 10.09. 1991 
+with the petitioner herein. Ar ticle 4 of the said Contract is in the following 
+terms:-  
+"
+4.03  The BUYER, in addition to price of GAS mentioned in Article 11, 
+ shall pay to the SELLER transportation charges @ Rs. 60.60· 
+ (Rupees Sixt y and paisa sixty only) per thousand standard cubic 
+ meter for Uran -  Thal sector of pipeline of the SELLER. Further 
+ the BUYER shall pay monthly transportation/service chares to be 
+ worked out on the basis of formula at Annexure III which forms, 
+ part of the CONTRACT for the facilities to be provided by, the 
+ SELLER for supply of GAS from  Thal  to the deliver point located 
+ at the BUYER's premises. The transportation/ service charges 
+ shall  be increased by 3 (Three) percent per annum on annual 
+ rest basis with effect from 01.04.1993. In addition, these monthly ARTICLE -  4 DELIVERY OF GAS  
+4.01  GAS shall be delivered to the BUYER at the Gas Metering Station  that shall be located at BUYER's premise at village Juybapuji, Pen 
+ Tehsil in the district of Raigad  in the State of Maharashtra, GAS 
+ will be transported from the down stream flange of the pipeline at 
+ the outlet of the GAS Metering Station hereinafter referred to as 
+ point of delivery by means of pipeline to be provided and 
+ maintained by the BUYER.  
+4.02 Gas Metering Station and buildings needed for the same shall be  set up / constructed and maintained by the SELLER. The land 
+ indeed for the purpose of such Gas Metering Station/Building  
+ shall be provided by the BUYER. The SELLER may use the said 
+ location for effecting deliveries to any other parties in the area 
+ without affecting supply of GAS to the BUYER.  
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 3 of 36 
+ 
+ transportation/service charged are also subject to revision as and 
+ when corporate income tax is revised. The formula indicated in 
+ Annexure III incorporates Corporate Income Tax at 46%.  
+4.04 The BUY ER shall make all proper and adequate arrangement for 
+ receiving GAS at the outlet of Gas Metering Station at its own risk 
+ and cost. Should any defect in the BUYER's intake arrangement 
+ arise, the same shall be notified by the BUYER.  
+4.05 For effective de liveries as aforesaid the SELLER shall install and 
+ maintain at its own risk and cost the piping control and regulation 
+ and metering equipment in the aforesaid Gas Metering Station and 
+ all other accessories to condensate collection and disposal. The 
+ said equipment so installed by the SELLER shall remain the 
+ property of the SELLER and the SELLER shall have the right to 
+ remove such equipment at any time within twelve (12) months after 
+ the expiry of the contract. The SELLER shall have the right to use 
+ the BUYER's land and utilities essentially required for installation, 
+ operation and maintenance of Gas Metering Station and allied 
+ equipment required for supply of gas on payment of such charges 
+ for utilities only as may be mutually agreed.  
+4.06 The titl e of GAS shall pass from the SELLER to the BUYER at the 
+ point of delivery of GAS to the BUYER.  
+4.07 The SELLER shall supply GAS to the BUYER at a gauge pressure of 
+ not less than 20 (twenty) Kg/ cm2 and not more than 45 (forty five) 
+ Kg/ cm2 at the delive ry point. The BUYER reserves the right to 
+ refuse to lift the GAS if the gauge pressure of supply of GAS on 
+ account of gauge pressure of supply of GAS being less than 20 
+ Kg/Cm2, the provision of Article 5.02 shall not apply for such 
+ days."  
+5. Clause 5.01 of the said Contract,  inter alia,  provides as under :-  
+6. As such, the Contra ct contemplates supply of gas by the petitioner 
+herein to the respondent and the respondent was obliged to pay for the price "ARTICLE -  5 QUANTITY OF GAS  
+5.01 The SELLER agrees to sell and deliver the GAS at the aforesaid point of delivery to the BUYER as per requirement of the BUYER subject to the maximum of 1.00 (One point zero zero) million standard cubic meters per day. Provided further for the first year of GAS supplies, the BUYER shall give to the SELLER quarterly forecast of the quantity o f 
+GAS required for each month atleast one month in advance."  
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 4 of 36 
+ 
+thereof, as also transportation charges to be computed in a manner set out in 
+clause 4.03. The transportation charges comprised two components viz.  
+Rs.60.60 per thousand standard cubic meter  of gas flowing through the 
+pipeline, and an amount to be calculated as per the formula referred to in the 
+clause.  
+7. On 30.03.1998, a supplementary agreement was entered into whereby 
+certain provisions of the said Contract dated 10.09.1991  stood deleted and/or 
+substituted by incorporating fresh provisions.  In particular, clause 4.03 of 
+the aforesaid Contract dated 1 0.09.1991 stood replace d by incorporation of a 
+fresh clause as containe d in the agreement dated 30.03.1998,  whereby , the 
+fixed transportation cost payable per month was qua ntified at Rs.38,67,600/ -. 
+The amended Article  4.03 is as under :-  
+   "Article 4.03 of the EXISTING CONTRACT stand deleted and     
+substituted to read as under:  
+   
+The BUYER in addition to price of GAS mentioned in Article 11, shall 
+pay to the SELLER Transportation Charges @ 60.60 (Rupees Sixty and Paise Sixty) only per One Thousand Standard Cubic Meters of GAS for Uran -Thal sector of pipeline of the SELLER. Further, the BUYER shall 
+also pay Monthly Transportation/Service Charges of Rs.38,67,600/ - 
+(Rupees Thirty Eight Lakhs Sixty Seven Thousand Six Hundred) only for the facilities provided by the SELLER for supply of GAS from Thal to the Deliver y Point located at the Buyer's premises. These charges of Rs. 
+60.60 per One Thousand Standard Cubic Meters and Rs. 38,67,600/ - 
+stated above shall be Increased by 3 (three) percent per annum on annual rest basis with effect from 01.04.1993 (First April One Thousand Nine Hundred and Ninety Three). This Monthly Transportation/Service Charge is also subject to revision as and when Corporate Income Tax is revised. In addition to the above, there shall be Additional Charges for investment by SELLER on Telemetry a nd Telecom system etc. for the 
+pipeline system in the Uran region, SELLER shall intimate the BUYER for payment of such Additional Charges on pro- rata basis which will be 
+Increased by 3 (three) percent per annum on annual rest basis with effect from the fir st of April following the intimation."
+ ARTICLE 4.03  
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 5 of 36 
+ 
+8. It is also relevant that an amendment was also made to Article 12 
+which deals with billing and payment. Article 12 of the Contract dated 
+10.09. 1991 was in the following terms :-  
+9. In the Supplementary Agreement dated 30.03.1998, the aforesaid 
+Article 12 was substituted and the substituted provision reads as under :-  "ARTICLE -  12 BILLING AND PAYMENT  
+12.01The BUYER shall open and maintain at its cost an irrevocable 
+standby revolving Letter of Credit with State Bank of India, Commercial Branch, Bank Street, Fort, Bombay by 28.02.1991 (Twenty Eight February, Nineteen hundred and ninety four) covering the  value of 15 
+(Fifteen) days supply of gas at maximum contracted quantity as per Article 5.01 plus monthly transportation/ service charges payable as per Article 4.03 of the CONTRACT in favour of the SELLER.  
+12.02 The SELLER shall raise invoice for the firs t fortnight covering the 
+actual quantity of GAS supplied at the price of GAS applicable from time to time as defined in Article II plus transportation charges and monthly transportation/service charges payable as per Article 4.03 of the CONTRACT. The' SELL ER shall raise the invoice for second fortnight 
+for the actual quantity of GAS supplied subject to provision of Article 5.02 and transportation charges as per Article 4.03 of the CONTRACT. The invoice for the second fortnight will have adjustments done for  
+calorific value as provided in Article 11. The SELLER will raise the invoice for each fortnight and BUYER agreed to pay the invoices so raised in full within 2 (two) working days of presentation of the said invoice. If for any, reasons, the payment is del ayed or any disallowance 
+is made from the invoice, the SELLER will present the invoice for the full amount or for the amount not paid as the case may be to the bank against the Letter of Credit and draw the amount. The BUYER will make arrangements with the  Bank in a manner that in such an eventuality the 
+full L/C amount gets automatically reinstated. 
+12.03 In case of any discrepancy / dispute, the BUYER shall lodge a 
+claim with the SELLER within the period of 14 (Fourteen) days from the 
+date of receipt of in voice. To the extent the claim admitted by the 
+SELLER shall issue a credit note in favour of the BUYER and adjust the 
+same in the next invoice to be raised. The SELLER , undertakes to settle the claim of BUYER within a period of 30 (Thirty) days from the r eceipt 
+of such claim, if found acceptable.  
+"ARTICLE 12.01  
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 6 of 36 
+ 
+ The BUYER shall open and maintain at its cost an Irrevocable Standby 
+revolving Letter of Credit (L/C) with the State Bank of India, Commercial Branch, Fort, Mumbai covering the value of 16 ( Sixteen) days supply of GAS at maximum contracted quantity as pe r Article 5.01 plus 
+Transportation Charges, Monthly Transportation/Service Charges and Additional Charges as per Article 4.03, in favour of the SELLER, during the operation of the CONTRACT. Provided the Letter of Credit should stipulated that all charges i ncluding negotiations and interest, if any, 
+shall be borne by the BUYER. Provided further, in case the BUYER does not open the Irrevocable, Revolving Letter of Credit within 15 (Fifteen) days of signing of the SUPPLEMETNARY AGREEMENT, the SELLER shall have  unrestricted right to discontinue the supply of GAS till opening 
+of such Letter of Credit. Provided further that provision of Article 5.02 shall continue to be applicable during the period of such discontinuation.  
+ARTlCLE 12.02  
+The SELLER shall raise invoice for the first fortnight covering the actual quantity of GAS supplied at the price of GAS applicable from time to time as defined in Article 11 plus Transportation Charges, Monthly Transportation/Service Charges and Additional Charges payable as per Article 4.03 of the CONTRACT. The SELLER shall raise the invoice for 
+the second fortnight for the actual quantity of GAS supplied subject to provision of Article 5.02 and Transportation Charges as per Article 4.03 of the CONTRACT. The invoice for the second f ortnight will have 
+adjustments done for calorific value as provided in Article 11. The SELLER will raise the invoice for each fortnight and the BUYER agrees to pay the invoice so raised in full within 2 (Two) working days of presentation of the said invoic e. If for any reasons, the payment is 
+delayed or any disallowance is made from the invoice, the SELLER will present the invoice for the full amount or for the amount not paid, as the case may be, to the Bank against the Letter of Credit and draw the amount . The BUYER will make arrangements with Bank in a manner that 
+in such an eventuality, the full L/C amount gets automatically reinstated. 
+Incase of any discrepancy/dispute, the BUYER shall lodge a quantified claim with the SELLER within the pe riod of 14 (Fourteen) days from the 
+date of the receipt of the related invoice. To the extent the claims are admitted by the SELLER, the SELLER shall issue a Credit Note in favour of the BUYER and adjust the same in the next invoice to be raised. The SELLE R undertakes to settle the claims with the BUYER within a period 
+of 30 ( Thirty ) days from the date of receipt of such claim, if and to the extent found acceptable. ARTICLE 12.03  
+Failure of the BUYER to put forward any claim 
+within the time specified above shall be an absolute waiver of any claim 
+as also the BUYER's right to refer the matter to Arbitration ." 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 7 of 36 
+ 
+10. After the execution of the aforesaid Supplementary Agreement dated 
+30.03.1998, an additional quantity viz.  0.75 million standard cubic meter s 
+per day (which had originally allotted to M/s Kalyani Mukund Limited)  was 
+also alloca ted to the respondent/claimant  by way of a Tripartite Agreement 
+dated 21.12.1999. As a result, the respondent 's/claimant's  entitlement stood 
+increased to an aggregate quantity of 1.75 million standard cubic meters per 
+day. This Tripartite Agreement also contains a provision for payment of 
+fixed transportation charge , as provided in clause 4.03 thereof.  
+11. The primary grievance raised by the respondent/claimant in its 
+statement of claim was that the petitioner herein failed and neglected to 
+supply the requisite gas in terms of the aforesaid Agreements . A  grievance 
+was also made out that the petitioner herein h ad started raising invoices on 
+the respondent/claimant for payment of fixed transportation charges under both the Contracts  i.e. the Contract  dated 10.09. 1991  and the Tripartite 
+Agreement dated 21. 12.1999. The statement of claim makes reference to the 
+representations  made by the respondent/claimant,  whereby , the aforesaid 
+grievance regarding invoices for fixed transportation charges being raised under both the Contracts , was ventilated . In this regard, paragraphs 13 and 
+14 of the statement of claims specifically averred as under :-  
+"13. Surprisingly, the res pondent not only failed and neglected to supply 
+any gas pursuant to the said tripartite agreement dated 21st December, 
+1999 and the contracted quantity and quality of gas under the said 
+contract dated 10th September, 1991, but started raising invoices on t he 
+claimant for payment of the fixed transportation charges under both the 
+contracts dated 10th  September, 1991 and the tripartite agreement dated 
+2lst December, 1999
+14. In the premises, the claimant by series of letters addressed to the respondent represented that inasmuch as the respondent failed to supply 
+and quantity of gas under the agreement dated 30. Copies of few such invoices are annexed herto and 
+marked C -5 collectively.  
+th March, 1992 read 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 8 of 36 
+ 
+with tripartite agreement dated 21st December, 1999, it should not 
+charge the fixed transportation charge under the said tripartite 
+agreement and that the production at the said plant  of the claimant has 
+been suffering tremendously due to failure of the respondent in supplying 
+the contracted quantity and quali ty of gas. In this connection, the 
+claimant craves leave to refer to and rely upon the various representations including the last representation dated 5th June, 2002 are annexed hereto and marked as C -6 collectively. The claimant craves 
+leave to refer to t he aforesaid representations, which should be read to 
+the aforesaid representations except the representation dated 5
+th June, 
+2002. The reply dated 15
+th July, 2002 given by the respondent was evasive and 
+did not address the issues raised by the claimant. A  copy of the said reply 
+dated 15th July, 2002 is annexed hereto and marked C -7. As stated above, 
+the respondent did not pay any heed to the aforesaid series of representations made by the claimant 
+and continued to raise invoices for 
+the fixed transportation charges under both the said contract dated 10th 
+September, 1991 and tripartite agreement dated 21st December, 1999, 
+although the respondent supplied the gas only under the said firs t 
+contract  and that too far less  than the contracted quantity and quality. In 
+fact, the claimant made a presentation of the production capacity of its said plant through a steel expert in a meeting held on 1
+st
+12. The respondent/claimant further made a grievance that the petitioner 
+herein was wrongly calculating the transportation charges payable under the 
+Tripartite Contract dated 21.12.1999. The averment in this  regard is 
+contained in para 15 A of the statement of claim which reads as under :-   April, 2003 
+between the respondent and the claimant which further established the requirements of gas at the said plant. A copy of the minutes of the said meeting between the respondent and claimant is annexed hereto and marked C -8."
+ 
+"15- A The claimant submits that not only did the respondent illegally  
+started levying and recovering transportation charges under the contract 
+dated 21st December, 1999 , even the calculation of this charge was 
+incorrect. The discrepancy was brought to the notice of the respondent by the claimants letter dated 7
+th
+13. The statement of claim goes on to further aver as under : -   August, 2001, the respondent did not pay 
+any heed to the claimants letter in this regard."  
+"16. The claimant states that the respondent is not entitled to charge fixed transportation costs which is intended to cover the cost incurred by 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 9 of 36 
+ 
+the respondent in setting up the pipeline and associated infrastructure 
+after such costs have been realised by  the respondent. In fact, despite 
+repeated requests by the claimant requesting the respondent to furnish the cost details for the pipeline in issue, the same have been withheld from the claimant. 
+As a matter of fact over the period April 1995 to July 
+2003, the claimant has paid an aggregate sum of Rs. 58,70,22,196/ -  by 
+way of fixed transportation costs under the gas supply contracts in 
+question
+14. Eventually , with regard to the fixed transportation charges, it was . If the details are disclosed by the respondent it will be 
+demonstrated that the cost of the pipeline has been re covered by the 
+Respondent by way of transportation charges paid by the claimant and other consumers.  
+               xxx                              xxx                                xxx  
+17.3 With full notice and knowledge that it would never supply the contracted quantity of gas to the claimant, the respondent made a false 
+assurance to supply the said contracted quantity of gas only to induce the claimant to agree to pay the fixed transportation charge under both the said contract and tripartite agreement . 
+               xxx                              xxx                                xxx  
+17.6 The said contract was entered into for supply of gas to the claimant at the rate of 1.0 million standard cubic meters per day and not for payment of fixed transportation charge. The primary object of the said contract was the supply of 1.0 million standard cubic meters of gas per day and not the fixed transportation charge and as such, the payment of the said fixed transportation charge by the claimant was dependent on the fulfilment of the primary object of the contract by the respondent.  
+               xxx                              xxx                                xxx  
+18. The claimant submits that the payment of fixed transportation charge under the said contract was and in any event is been deemed to be subject to the respondent supplying the full contracted quantity everyday. No party to a contract can be bound or forced to make payment of a fixed amount without adequate consideration there for. In the inst ant case the 
+consideration for payment of the said fixed transportation charge by the clement to the respondent was the uninterrupted supply of 1.0 million standard cubic meters of gas per day by the respondent to the claimant. As such, it was incumbent upon the respondent to first supply the contracted quantity regularly so as to entitle itself to collect the fixed transportation charge from the claimant.
+ 
+               xxx                              xxx                                xxx  
+24. In that vie w of the matter, the entire action of the respondent in 
+collecting the fixed transportation charge under the said contract was arbitrary, unauthorized, unreasonable, illegal and unjust and as such the respondent is liable to refund to the claimant all the moneys collected from it by way of fixed transportation charges."
+ 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 10 of 36 
+ 
+claimed as under :-  
+"26.3 As would be evident from the supplies of gas made under the said 
+contract, the respondent has w rongfully collected the fixed transportation 
+charge without supplying the contracted quantity of gas and thereby depri ved the claimant of the benefit of utilization of its money for 
+commercial purpose. 
+Has the claimant not been forced to pay the fixed 
+transportation charge, the claimant could have utilized the said money 
+in its business profitably and earned huge profit, which is reasonably 
+estimated at Rs. 55 Crores
+15. Accordingly, with regard to the transportation charges, the following 
+prayer was sought in the statement of claim :-  . As such, the claimant is entitled to and the 
+respondent is liable to pay the said sum to the claimant. Alternatively, the respondent is liable to pay interest at the rate of 20% which is accepted rate of interest charged by the banks in case of commercial transaction."  
+"29. The claimant, therefore, claims an award for the following amounts:  
+(c) An award for a sum of Rs. 55,00,00,000 (Rupees fifty five Crores)  as claimed i n paragraph 26.3 above;"
+ 
+16. In the statement of defence/reply on behalf of the petitioner, it was, 
+inter alia, averred that (i) the claims are barred by limitation; (ii) in view of 
+the signing of the Supplementary Agreement dated 30.03.1998, any di spute 
+exist ing prior to that date  is deemed to have been waived  and any claim s 
+based on such disputes are not arbitrable. It was specifically pleaded as 
+under :-  
+"As is clear from the statement of claim itself, the contract was executed 
+on 10th
+17. It was further averred as under : -   September, 1991 and actual supply of gas was commenced in the 
+year 1994. However, the Claimant has raised issues with regard to transportation charges only in the year 2000. Any claims pertaining to a period more than three years prior to the date of comm encement of this 
+arbitration cannot be arbitrable in view of laws of limitation."
+ 
+"(i) Presently, GAIL is supplying 'bundled gas' i.e. gas together with gathering, transportation and delivery services. Therefore, the buy er is to 
+pay for the Entitlement Bundle which is equal to Gas (commodity) plus Transportation and services. In terms of Pipelines, virtually all costs are 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 11 of 36 
+ 
+fixed costs, namely, the cost of construction of pipeline, pumping stations 
+and maintenance including the cost of securing the right of way for 
+laying the pipeline, the economic theory of having a fixed monthly transportation/service charge is that all the above costs must be paid for even if pipeline throughput is zero. 
+The transportation charges and 
+monthly service charges are intended to recoup the transaction cost of 
+gas marketing and facilitate the maintenance and development of the 
+network.
+18. The statement of defence goes on to controvert the allegations 
+regarding deficient supply of gas and also seek s to make the point that the 
+respondent/claimant has been consistently supplied  with about 8 0% of the 
+maximum quantity of gas agreed to be supplied.  " 
+19. It was further averred that the short supply in gas,  if at all,  was 
+induced by the regulations and various  executive  order (s) passed from time 
+to time by the Ministry of Petroleum and Natural Gas and the same is liable 
+to be treated as a force majeure  condition. It was submitted that the 
+respondent/claimant is obliged to pay  fixed transportation charges under 
+both the Contracts , viz.  the Contract dated 10.09.1991 as amended vide 
+Supplementary Agreement dated  30.03.1998 , and the Tripartite Agreement 
+dated 21.12.1999.  
+20. In the above conspectus, the following issues were framed by the  
+arbitral tribunal :- 
+"1. Are the Claims or any part of them not arbitrable? 
+2. Whether Respondent was justified in not supplying contracted quantity of the gas to the Claimant? If no, to what effect? 3. Does the Respondent prove that under the terms of the contract, the extent of supply to the Claimant of gas was dependent upon the availability of gas at the material time as well as upon direction of Government of India at that point of time?  
+4. Is the Respondent entitled to claim transportation charges from the claimant even during the period of short supply or no supply whatsoever?  
+5. Does the Respondent prove that the Claimant raised the objection in 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 12 of 36 
+ 
+regard to transportation charges from the first time in the year 2000? If 
+yes, what is the effect?  
+6. Does the Respondent prove that on the execution of the supply 
+agreement dated 30.03.1998, all the claims prior thereto stood extinguished? 7. It is shown that the Claims for transportation charges pertaining to a period more than 3 years prior to date of t he commencement of 
+arbitration i.e. 7.1.2003, is not arbitrable as barred by limitation?  
+8. Does the claimant prove that in view of the continuous and uninterrupted process of issuing provisional invoices, the limitation does not run against the Claimant until those invoices are reconciled and made final? 9. Does the Claimant prove that the Respondent was wrong in levying and recovering transportation charges post -tri-partite agreement for the 
+same infrastructure against the same party under two different agreements?  
+10. Whether the Respondent continuously made false assurances of supplying the contracted quantity of gas so as to induce the Claimant to continue to pay transportation charges? 11. Does the Respondent prove that the Claimant is e stopped from 
+complaining about the levy of transportation charges because throughout 
+the contract period and even upto date and even post tri -partite 
+agreement, right upto 2000, they never disputed charges recovered / levied by the Respondent? 12. Are the Claimant entitl ed to claim refund of corporate income tax as 
+per clause 4.03 of Contract? 13. Are the Claimants entitled to interest? If so, from what date and on what amount and at what rate? 14. Are the claimants entitled to all or any of the reliefs sought under the Claim-Statement? 
+15. What order as to costs? 16. What Award?"
+ 
+21. The arbitral award proceeds to decide in favour of the 
+respondent/claimant with regard to the issue of arbitrability of the claims.  As 
+regards issue nos. 2 and 3, the same was decided i n favour of the petitioner 
+herein. It was held that the shortfall in supply of gas was due to non -
+availability of gas after supply to priority sectors on the recommendation of 
+the Gas Linkage Committee (GLC).  The Award  
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 13 of 36 
+ 
+22. It was held that the government's powers to al locate gas to the pri ority 
+sector s override the term of any contract entered into by the petitioner with 
+regard to the supply of gas. In reaching this conclusion, the arbitral tribunal 
+relied upon the judgment of the Supreme Court in the case of Reliance 
+Natural Resources Ltd. v. Reliance Industries Limited,  (2010)  7 SCC 1. It 
+was held that Article 5.01 to 5.03 of the Agreement dated 10.09. 1991 and 
+other articles in the Supplementary Agreement dated 30.03.1998 must be 
+construed in consonance with,  and subj ect to the overriding power of the 
+government to first supply as per the gas utilization policy of the 
+government for giving gas first to priority sector s and then to other sectors , 
+even though it may result in reduction of the contracted quantity of gas a s 
+per Article 5.01.  
+23. The Award goes on to further h old that the executive  orders passed by 
+the Government of India on the recommendation s of the Gas Linkage 
+Committee (GLC) from time to time constitutes a force majeure event under 
+Article 10 of the Contract dated 10.09. 1991. The arbitral tribunal concluded 
+as under : -  
+"On Issues 2 and 3, for the aforesaid reasons, we are of the opinion that 
+the Respondent was justified in not supplying the contractual quantity of gas to the claimant and there  is no breach of contract on the part of the 
+respondent. We further hold that the Respondent has successfully proved that, notwithstanding the provisions of Article 5.01 of the contract, the extent of supply to the claimant of the gas, was dependent upon t he 
+availability of gas at the material time and that such reduced supply was based upon the recommendations of the GLC; as approved by the Government, which executive orders clearly come within the force majeure e vents mentioned in Article 10. We decide is sues 2 and 3 
+accordingly against the claimant and in favour of the respondent."  
+24. While deciding issue nos.4 and 5, the impugned arbitral award 
+rejected the contention of the respondent/claimant that  whenever the force 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 14 of 36 
+ 
+majeure  event, on which the petitioner herein relies occurs, the liability of 
+the respondent/claimant to pay fixed transportation/service charge s also get s 
+correspondingly suspended. It was further held that respondent/claimant 
+cannot seek partial abetment of transportation charge merely upon the occurrence of the force majeure  event.  
+25. Further, the respondent /claimant's contention based on Section 12(2) 
+and (3) of the Specific Relief A ct, 1963 to the effect that it is entitled to a 
+proportionate abetment of the fixed transportation charges whenever the gas supply is less than the contracted quantity, was also rejected. This was done on the basis that the part of the contract not perform ed by the petitioner did 
+not form a considerable part of the whole contract inasmuch as the petitioner 
+had filed statement s of supply showing supply of gas to the extent of 80% of 
+the contractual requirement from time to time.  
+26. However , despite the aforesa id finding, t he impugned award proceeds 
+to hold that the petitioner is not entitled to claim full transportation charges 
+from the respondent/claimant during the period of short supply of gas. This 
+conclusion is arrived at by the arbitral tribunal by (i) according an 
+interpretation to Article 4.03 of the Contract in a manner which gives "business efficacy" to the Contract, (ii) on a n application of the principle 
+that there was "partial failur e of consideration", as a result of which the 
+transportation charges are liable to be apportioned/reduced to the extent of 
+service not performed.  
+27. Consequently, with regard to issue no.4, the impugned award finds 
+that the respondent/claimant is entitled to a sum of Rs.14.67 crores as being 
+refundable by the petitioner. This is based on the data of actual drawl of gas 
+for the period between (June 1994 to January 2003 ) and the extent  of 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 15 of 36 
+ 
+shortfall vis-à-vis the extent of supply contemplated under Article 5.01 of 
+the Agreement dated 10 .09.1991. Accordingly, the following findings were 
+rendered with regard to issue nos. 4 and 5.  
+"We are of the opinion, on Issue no.4, therefore, that the respondent 
+should refund to the claimant a sum of Rs.14.67 Crores consequent to reduction in supply of gas and its proportionate impact on the transportation/service charges. On Issue No.5, even if claimant had not raised the issue of transportation charges before the year 2000, it will be entitled to the above sum.  
+28. The impugned award decides issue no.6 by rejecting the plea of the 
+petitioner that the execution of the Agreement dated 30.03.1998 had the 
+effect of extinguishing all the claims prior thereto.  Finding on quantum on Issues 4 and 5:  
+For the reasons given above, we hold on Issue No.4 that the respondent is not entitled to claim full transportation/service charges from the claimant during the period of short supply or no supply. We also hold on Issue No.5 that even if the claimant had r aised the issue in the year 2000, 
+claimant is not e stopped from claimant a proportionate reduction in the 
+transportation costs for the short supply, during the period from June, 1994 to Jan, 2003 and that on a proper computation, the claimant is entitled t o a refund of Rs.14.67 Crores."
+ 
+29. Issue nos.7 and 8 , which perta in to limitation,  and which are vital for 
+the purpose of the petitioner's challenge to the impugned arbitral award was 
+decided in the following terms:-  
+"Issue No.7 : Whether the claims for transportation charges pertaining to 
+a period more than 3 years pri or to the date of the commencement of 
+arbitration, that is 7th Jan, 2003, are not arbitrable and are barred by 
+limitation?  
+Issue No.8 : Does the claimant prove that in view of the continuous and 
+uninterrupted process of issuing provisional invoices, the li mitation does 
+not run against the claimant until these invoices are reconciled and made final?  
+These two issues are connected and can be disposed of together. 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 16 of 36 
+ 
+Pleadings:  
+We shall refer to the pleadings and the written submissions of the parties 
+on these two issues.  
+Initially, these points were raised by the respondent in the Reply statement in para (i) of the Preliminary objections. 
+In the Rejoinder, this was denied by the claimant in para 18, and it was 
+stated (page 15) that the claimant was submitting i nvoices provisionally 
+on fortnightly basis and unless all such provisional invoices are made final, the question of limitation does not arise.  
+Written submissions : 
+In paras  6.1 to 6.7 of the Written submissions of the claimant dated 19 -6-
+2012, it was contended once again by the claimant in para 6 that the invoices raised by the claimant were provisional as can be seen from Vol.1, pp 34 to 37, 41 to 45, 47, 49 and 51 and Vol. VIA at page 83. It 
+was also contended that in para 21 of the affidavit in chief examination of Mr.Gupta, witness for respondent, it was not denied that the invoices were provisional. He had merely stated that the said aspect was "irrelevant". It is stated  that it is no body's case that the invoices became 
+final later on or were finalized by the respondent or settled between the parties by w ay of finalizing the accounting. Further, on the execution of 
+the Supplementary agreement of 1998, all the previous am ounts paid by 
+the claimant to the respondent towards supply of gas were revised in view of the revision of the terms and credit was given to the claimant in respect of all payments made from 1994 to 1998 (Vol.VIA page 77). This corroborates the fact that all payments were merely "on account" and were to be settled and adjusted at a later date. Any payment is made against provision invoices can only be a provisional payment. The claimant referred to the judgment of the Rajasthan High Court in Bhanwarlal vs. The State And Ors. AIR 1976 Raj 125, to Art.13 and Articles 2 and 3 of the schedule to the Limitation Act in support of this contention. 
+The claimant has further stated in para 6.5 of the said Written 
+submissions that the initial term of 1991 agreement cam e to an end on 
+31-12-2000 (as per clause 2.01) but that, under clause 3.01, the period of 
+the contract was extended from time to time and that it subsists even today.  Therefore, it is contended that acc ounts can be settled even today. 
+It is pointed out that, however, even if  31-12-2000 is taken as date on 
+which accounts ought to have been settled, that date is within 3 years from the date on which arbitration notice was given and hence the plea of limitation set up by the respondent is not tenable. It is t herefore stated 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 17 of 36 
+ 
+that an award should be passed for the refund of the excess transport 
+service charges deducted by the respondent, by the Tribunal. In any event, claim for the last 3 years from the date of the notice for arbitration, was within time.  
+In the  Reply submissions of the respondent, it was submitted that the 
+arbitration is deemed to have commenced on 7 -1-2003 and any dispute 
+relating to a period beyond 7- 1- 2000 must be treated as barred by time, 
+It is stated that the plea of the claimant in the r ejoinder that the invoices 
+or provisional c annot be accepted as they C annot  be provisional 
+endlessly. If that contention is accepted, the invoices would be provisional  even today. The invoices are required to be paid within 2 
+days of their presentation and in the context of Art. 12.03 of the 1991 
+agreement, which permitted the buyer ,to raise a dispute regarding discrepancy in the invoice within 14 days thereof, and which further 'required a resolution of the dispute within 30 days thereafter, would mean that the invoice would not  remain provisional beyond 45 days of its 
+presentation. In any event, they would become final at the end of financial year.  
+Discussion:  
+In our opinion, the contention of the learned senior counsel for the claima nt is correct and we agree that the  invoices were provisional and 
+they continued to be provisional. We are unable to accept that beyond 45 days of the presentation of the invoice, they would become final. As these invoices were and continued to be provisional, the question of the bar of limitation does not arise. Therefore, the issue is arbitrable. 
+Under Issue No.7, we hold that the Claim for Rs.14.67 crores (as now 
+presented by the claimant), towards refund of excess deduction of transportation/service charges is not barred by time and issue is arbitrable. 
+Consequently, we hold on Issue No.8 in favour of the claimant that the 
+invoices have not become final and the claim is therefore within time.
+" 
+30. Issue no .9 was decided by the arbitral tribunal by holding that  the 
+claim s arising out of the Tripartite Agreement were not the subject matter of 
+the reference . 
+31. Issue nos. 10 and 11 were decided in the impugned award in the 
+following terms :- 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 18 of 36 
+ 
+"Issue No. 10 : Whether the respondent continuously made false 
+assurances of s upplying the contracted quantity of gas so as to induce the 
+claimant to continue to pay transportation charges? 
+On this Issue it was submitted in the written submissions of the claimant 
+dated 19- 6-2012 that this issue is not material to the decision in thi s 
+arbitration and that claimant is advised not to make submissions in this behalf. 
+On Issue No.10, we accordingly hold that the claimant has not pressed 
+for any decision on this issue before us.  
+Issue No.11 : Does the respondent prove that the claimant is estopped 
+from  complaining about the levy of transportation charges because 
+throughout the contract period and even up to the date and even post -
+tripartite agreement up to 2000, they never disputed charges recovered /levied by the respondent ?  
+The question is whether the respondent has proved that the claimant is estopped from complaining about the levy of transportation charges because throughout the contract period and even up to 29- 12-2000 (vide 
+Ex.C.6 (9) at page 66 of Vol.1), they never disputed charges  
+recovered/levied by the respondent?  
+In our view, the claimant is not estopped from seeking refund even 
+though it had not claimed such refund during the period of contract or 
+even post tripartite agreement up to 2000 and even up to 29 -12-2000 
+once we have held that the claims are not barred by limitation
+Yet another plea of estoppel was raised in the written submissions of the respondent, (in response to the claimant submissions dated 19- 6-2012) . 
+The claimant, in its written submissions dated 19- 6-2012, has combined 
+this issue along with Issue No.5 which is more or less similar in content. 
+Another point was raised in the written submissions of the respondents, 
+in para (vii). This point was summarized by stating that reference to Art.12.03 of the 1998 contract and the 1991 contract would require that it was incumbent on that parties to follow the procedure wherein the buyer could raise a dispute within 14 days from the date of receipt of the related invoice.  
+We are unable to understand how an estoppel can arise against the claimant because respondent had not raised the dispute relating to the invoice within 14 days of the submission of the invoice. This contention is therefore rejected.  
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 19 of 36 
+ 
+under para (iv) relating to fixed transportation charges as follows:  
+"The formula fixed for transportation charges in Annexure III of 
+the agreement dated 10- 9-1991 gave way to a 
+fixed/quantified/crystallized amount of Rs.38,67,600/ - in the 
+supplementary agreement of 1998, which was made effective from 1-4-1993. Consequent upon this revision of the transportation 
+charges by way of fixed amount, the claimant was refunded a sum of Rs.4,22,33,753.00 was issued to the claimant (page 86- 87 
+Vo1.5). Therefore the claimant is estopped from raising any dispute for the period prior to 31- 3-1998 i.e. date of supplementary 
+agreement. After 30.03.1998 the parties shall be governed by the amended clause 4.03 which provides for escalation of 3% on annual rests basis on fixed transportation charges of Rs.38,67,600.00" 
+The said contention is a lso not correct. If some amount has been paid, 
+that does not mean that the claimant cannot claim other amounts, if legally due. Even if the said amount paid was received, without protest, there is no question of estoppel for claimant other amounts if they are legally due.  
+On Issue No.11, we hold that there is no estoppel against the claimant as contended by the respondent."
+ 
+32. Accordingly, it was held that there was no estoppel against the 
+respondent/claimant preventing it from raising the claim with regard to 
+transportation charges.  
+33. Issue no.12 pertains to corporate tax and was decided against the 
+respondent/claimant.  
+34. Accordingly, the arbitral award concludes that the 
+respondent/claimant is entitled t o a sum of Rs.14.67 crores with 6% interest 
+with effect fr om 29.12.2000 i.e. from the "reference of arbitration".  
+35. In the above conspectus, learned senior counsel  for the petitioner has 
+broadly made the following  submissions:-  Submissions of Respective Counsel  
+i. It is contended that the arbitral tribunal having categorically held that 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 20 of 36 
+ 
+the respondent/claimant was not entitled to seek partial aba tement of 
+transportation charge s on the basis of occurrence of the force majeure  
+event  which entailed shortfall in supply of gas, a cted in 
+contravention/contradiction to the aforesaid finding, by proceeding to 
+grant proportionate reduction in transportation charges, proportionate 
+to the quantity of gas not supplied every month. According to the 
+learned senior counsel for the petitioner, this contradiction vitiates the 
+award and the same deserves to be set aside on this ground alone. In 
+this regard, learned senior counsel  for the petitioner has sought to 
+compare the following findings in the impugned award to contend that the same are contradictory to each other.  
+Even otherwise if the claimant has 
+received some benefit on account 
+of the supplies of gas in part 
+though not in full, unless the 
+principle of partial failure of 
+consideration (to which we shall 
+make reference herein below), 
+claimant cannot seek partial 
+abatement of transportation 
+charge merely relying upon the 
+occurrence of the force majeure 
+event. This contention is therefore 
+rejected . In our opinion, on a reasonable 
+interpretation of Articles 4.03 and 5.01, 
+when the respondent is not able to 
+supply as pe r the requirement of the 
+claimant in view of Government 
+directives to the GLC which fall under 
+the force majeure clause Article 10, the 
+monthly transportation/service charges 
+have to be correspondingly reduced  
+proportionate to the quantity of gas that the respondent is able to supply as per 
+Government directives. The maximum transpo
+rtation/service charges of 
+Rs.38,67,600.00 p.m. are, in our 
+opinion, applicable when the 
+respondent is able to supply as per the 
+'requirement of the claimant under 
+Art.5.01 but not when the respondent 
+reduces its supply on account of 
+Government directives falling under 
+force majeure clause Article  10. This, in 
+our opinion, is a reasonable 
+interpretation which conforms to 
+business sense. That would be what a 
+third person, having k nowledge of the 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 21 of 36 
+ 
+facts and circumstances of the case, 
+would have concluded.  
+ 
+ii. It is further contended that the arbitral award errs in granting pro rata  
+reduction of transportation charges on the following basis  :-  
+"From the above, it is clear that it is permissible for us  to apply the 
+principle of " partial failure of consideration" to the present contract in 
+so far as costs for transportation services are concerned and 
+apportionment the transportation charges to the extent of service not performed."
+ 
+iii.  It is submitted that the tribunal grievously errs in making the 
+aforesaid observation referring to "service not performed". It is 
+submitted that it was not even the respondent/claimant's case that 
+there was any deficiency vis -à-vis the providing of transportation 
+services. The deficiency , if any , was with regard to the alleged 
+deficiency in supply of gas and even with regard thereto, the tribunal 
+finds that 80% of the gas requirements of the respondent/claimant was 
+fulfilled by the petitioner.  As such, it is contended that the tribunal has 
+disregarded the very framework of the agreement between the parties in seeking to make a pro rata deduction in respect of the 
+transportation charges. Further, the tribunal erroneously did so 
+without even going into the issue as to what happens when 80% of the 
+gas required to be supplied under the agreement in question was duly supplied.  
+iv. It is further submitted that on 30.03.1998 , when the Supplementary 
+Agreement was executed, significant time ha d elapsed since the 
+parties ent ered into the Agreement dated 10.09.1991. By that time, the  
+parties were very well aware that the supply of gas was not to the 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 22 of 36 
+ 
+extent  desired by the respondent/claimant; yet, the parties agreed to 
+stick to the framework of having fixed transportation char ges 
+unconnected with the quantum of gas supplied. As such, it was 
+completely untenable for the respondent/claimant to insist on pro rata 
+deduction of transportation charges.  
+v. It is also strenuously submitted that the arbi tral tribunal completely 
+mutilated and rewrote the Contract between the parties in the guise of 
+interpretation for the purpose of achieving "business efficacy ". It is 
+submitted that the same is in direct contradiction with the judgment of 
+the Supreme Court in the case of Nabha  Power Limited (NPL) v. 
+Punjab State Power Corporation Limited (PSPCL) and Another , 
+(2018) 11 SCC 508 .  
+vi. It is further contended that the arbitral tribunal's application of the  so-
+called principle of "partial failure of consideration" also amounts to rewrit ing the Contract between the parties.  
+vii. It is submitte d that on the face of the award, it is unclear as to the 
+basis on which the impugned award applies the theory of "partial 
+failure of consideration ", and in any event, the same is untenable 
+since it re sults in rewriting the contractual provisions between the 
+parties.  
+viii. It is submitted that the amounts claim ed for the period July 1994 to 
+March 1998 are barred by estoppel in view of the Supplementary 
+Agreement dated 30.03.1998.  Further, the amounts claimed for the 
+period July 1994 to September 2000 are barred by limitation,  since 
+admittedly , the claim for refund of proportionate transportation 
+charges has been raised for the first time in the st atement of claim 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 23 of 36 
+ 
+dated 19.09.2003 at paragraph 26.1 thereof and at no time prior 
+thereto.  
+ix. It is further submitted that there is no reasoning whatsoever given in 
+the impugned award for its findings on issue no s.5 and 11 vis-à-vis 
+the issue of estoppel in respect of the charges levied for the period 
+1994 to 2003.  
+x. Further, there is also no reasoning given by the arbitral tribunal for its 
+findings on issue no.6 , on the issue of waiver and estoppel by the 
+respondent/claimant in accepting the levy of minimum transportation 
+charges on execution of the Supplementary Agre ement dated 
+30.03.1998.  
+xi. On the issue of limitation, it is strenuously urged that the impugned 
+award has committed a patent illegality in holding that since the 
+invoices were provisional,  therefore,  the question of limitation does 
+not arise. It is submitte d that this is contrary to the plain meaning of 
+article 12.03 of the Contract which prescribes the time -period within 
+which the respondent/claimant was required to raise its claim with 
+respect to the invoices.  It is contended that by this logic ,  no invoic e 
+would be final and would continue to be provisional  even as on today . 
+It is submitted that in this respect, the impugned award is contrary to 
+the judgment of Reliance Industries Limited v. Gail (India) Limited , 
+2019 SCC OnLine Del 9302 . In any event, the period of limitation 
+would start to run from the date of the invoice a nd expire within a  
+period of 03 years, therefore, any claim in respect of invoices prior to 
+03 years before the filing of the statement of claim i.e. prior to 19.09. 2000 would necess arily be ex -facie  barred by the law of 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 24 of 36 
+ 
+limitation as held in State of Goa v. Praveen Enterprises , (2012) 12 
+SCC 581 .  
+xii. Lastly, it is contended that the award of interest from an arbitrary date 
+of 29.12.2000 is ex-facie  perverse. Further the impugned award e rrs in 
+directing that interest at the rate of 18 % per annum will be payable in 
+the event of the award not being satisfied within three months from 
+the issuance thereof . It is submitted that this is contrary to the 
+judgment in the case of Vedanta Limited v . Shenzhen Shandong 
+Nuclear Power Construction Co. Ltd. , (2019) 11 SCC 465 .  
+36. Per contra , learned senior  counsel for the respondent has contended 
+that the impugned award is well reasoned, based on a proper appreciation of 
+the facts and circumstances and needs no interference in exercise of the 
+jurisdiction under Section 34 of the A&C Act. Reliance is placed on the 
+following judgment s to emphasize the limited scope of interference while 
+scrutinizing arbitral award s in exe rcise of jurisdiction under Section 34 of 
+the A&C Act.  
+i. Shree Vishnu Constructions v . The Engineer in Chief Military 
+Engineering Service & Ors. , Civil Appeal No. 3461 of 2023 
+(judgment dated 09.05.2023);  
+ii. Indian Oil Corporation Ltd.  & Ors . v. Sathyanarayana Service 
+Station &  Anr., Civil Appeal No. 3533 of 2023 (judgment dated 
+09.05.2023)  
+iii. Reliance Infrastructure Ltd . v. State of Goa, Civil Appeal No. 3615 
+of 2023 (dated 10.05.2023);  
+iv. Union of India v . Reliance Industries Limited & Ors.,  [OMP 
+(COMM) 487 of 2018 , judg ment dated 09.05.2023];  
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 25 of 36 
+ 
+v. Associate Builders v . Delhi Development Authority,  (2015) 3 SCC 
+49; 
+vi. National Highways Authority of India v. ITD Cementation India 
+Ltd., (2015) 14 SCC 21 . 
+37. It is further contended that the impugned award rightly take recourse 
+to according an interpretation to the relevant contractual provisions in a 
+manner so as to give "business efficacy" to the contract. Further, it is 
+contended that the arbitral tribunal was also very well justified in applying 
+the theory of "partial failure  of consideration ".  
+38. With regard to the aspect of limitation, it is emphasized that the 
+impugned award rightly notes  that the invoices raised since 1994 with regard 
+to the transportation charges,  were provisional in nature.  Further, the 
+Contract dated 10.09.1991 continued to be in operation till 31.12.2000; the 
+arbitration was in voked  on 07.01.2003 i.e. within the period of 03 years 
+thereof.  As such, the claim s cannot be said to be barred by limitation nor 
+can any waiver be construed on the part of the  respondent/claimant with 
+regard to the claims in question.  
+39. At the outset, it is necessary to delineate the scope of the present 
+proceedings under Section 34 of the Arbitration and Conciliation Act, 1996. The law is well settled tha t in proceedings under Section 34 of the Act, this 
+Court will not exercise jurisdict ion akin to an appellate court so as to 
+reappraise/ re -appreciate factual and evidentiary aspects . Further, 
+interpretation of the contract is the domain of the arbitral tribunal. It is impermissible, while exercising jurisdiction under Section 34 of the Act to re-interpret the provisions of the contract.  In Associate Builders  (supra), it Analysis and Conclusion  
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 26 of 36 
+ 
+has been held that "the construction of terms of a contract is primarily for 
+an arbitrator to decide unless the arbitrator construes the contract in such a 
+way that it could be said to be something that no fair minded  or reasonable 
+person could do". In the said judgment, the Supreme Court referred to the 
+earlier judgments in the case of Mcdermott International INC vs. Burn Standard Company Limited and Ors, (2006) 11 SCC 181 , wherein it has 
+been held that " once, thus it is held that the arbitrator had the jurisdiction, 
+no further question shall be raised and the court will not exercise its 
+jurisdiction unless it is found that there exists any bar on the fac e of the 
+award".  
+40. In MSK Projects India (JV) limited vs. State of Rajasthan , (2011) 10 
+SCC 573 , the Supreme Court has held that if an Arbitrator commits an error 
+in the construction of the contract, that is an error within his jurisdiction. But if he wanders outside the contract and deals with the matter not allotted to him, he commits a jurisdictional error.  
+41. In Rashtriya  Ispat Nigam Limited vs. Dewan Chand Ram Saran 
+(2012) 5 SCC 306  the Supreme Court has held that if a clause was capable 
+of two interpretations and the view taken by the arbitrator was clearly a possible one if not a plausible one, it is not possible to say  that the arbitrator 
+had travelled outside his jurisdiction or that the view taken by him was against the terms of the contract.  
+42. In the case of NHAI vs. Progressive -MVR(JV), (2018) 14 SCC 688, 
+the Supreme Court after considering catena of judgments, held that e ven 
+when the view taken by the arbitrator is a plausible view, and / or when two views are possible, a particular view taken by the Arbitral Tribunal, which is also reasonable, should not be interfered with, in proceedings under Section 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 27 of 36 
+ 
+34 of the Act.  
+43. In Maharashtra State Electricity Distribution company Ltd. Vs. 
+Datar Switchgear Ltd., (2018) 3 SCC 133 , the Supreme Court has held that 
+the Arbitral Tribunal is the master of evidence and the findings of fact which are arrived at by the arbitrator s on the bas is of evidence on record are not to 
+be scrutinized as if the Court was sitting in appeal.  
+44. The petitioner  has sought to contend that transportation charges 
+payable by the respondent/claimant to the petitioner , under the Agreement 
+dated 10.09.1991  read with  the Supplementary Agreement dated 
+30.03. 1998 , are not liable to be reduced on pro-rata basis (as held in the 
+impugned award) in view of the following circumstances : - 
+i. Under the Agreement dated 10.09.1991, the payment of transportation 
+charges as per the formula referred to in clause 4.03 was never linked 
+to the quantum of gas supplied. This was so e ven under the 
+Supplementary Agreement dated 30.03. 1998  ;   
+ii. When the Supplementary Agreement dated 30.03.1998 was entered 
+into, the agreement dated 10.09.1991  had been in operation for almost 
+7 years. It was well within the knowledge and contemplation of the 
+parties that the supply of gas was not commensurate with the 
+requirement of the respondent/claimant and/or in line with the 
+interpretation accorded by the respondent/claimant to clause 5.01 of 
+the Agreement dated 10.09.1991 . Despite having the benefit of such 
+hindsight, the parties agreed upon a flat/lump-sum amount being 
+payable towards transportation charges without the same being linked 
+in any way to the quantum of gas supplied. As such, the pro-rata 
+deduction  of the said transportation charges (based on alleged 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 28 of 36 
+ 
+shortfall of gas supplied), was inconsistent with the very framework 
+of th e contract between the parties, and the clear underst anding of the 
+parties;  
+iii. The arbitral tribunal itself arrived at a conclusion that the force 
+majeure  event, which justified the reduced supply of gas could not 
+have a bearing on the payment of the fixed transportation/services 
+charges. The said finding precl udes any pro-rata reduction of the 
+transportation charges (based on quantum of gas supplied) . However, 
+in the later/subsequent part of the award,  the transportation charges 
+have been directed to be reduced proportionate to the quantity of gas.   
+iv. It was impermissible to resort to the doctrine of business efficacy 
+inasmuch as a  commercial contract cannot be interpreted in a manner 
+so as to arrive at a conclusion which is at variance with the direct 
+implication and import of express ed  contractual p rovision, as held by 
+the Supreme Court in Transmission Corporation of Andhra Pradesh Ltd. & Ors. v. GMR Vemagiri Power Generation Ltd &  Anr., (2018) 
+3 SCC 716 ;  
+v. The principle of partial failure of consideration was wholly 
+inapplicable in the facts of the present case inasmuch as it cannot be 
+said that there was any deficiency whatsoever in performing the 
+services relating to transportation, which is quite distinct from the 
+supply of gas.  
+45. No doubt, the above aspects are relevant, and  the view canvassed by 
+the petitioner may arguably qualify as a plausible view. However, despite the 
+above , I am inclined to defer to the conclusions arrived at in the impugned 
+award, since the same is based on an interpretation of the contract (which is 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 29 of 36 
+ 
+the domain of the arbitral tribunal) and it cannot be said that the view taken 
+by the arbitral tribunal is not even a possible view. The settled legal position 
+would not permit embarking upon a full scale, merit based review of the 
+award despite the afores aid relevant aspects emphasized by the petitioner .  
+46. Next, coming to the award in respect of issue no s. 5, 7, 8 and 11,  it 
+has been conclude d in the impugned award that, (i) e ven if the claimant had 
+not raised the issue of transportation charges before the year 2000, it will be entitled to seek proportionate reduction in the transportation charges for the period 1994 onwards ; (ii) the claim /s in respect of transportation charges 
+pertaining to the period more than 3 years prior to the date of 
+commencemen t of arbitration , are arbitrable and not barred by the limitation 
+because the invoic es for the said period were  ‘provisional'  in nature; (iii) 
+limitation did not even begin to run and the claims are not time barred since 
+the invoices (which date as far back as 1994 onwards) were only provisional 
+in nature.  
+47. With regard to the above, certain  relevant aspects need to be taken 
+note of.  At the time of entering into the Supplementary Agreement dated 
+30.03.1998, the parties made a crucial amendment to Article 12.03 of  the 
+Agreement dated 10.09.1991.  A comparison between the un-amended and 
+amended 12.03 is as under :-  
+12.03 In case of any 
+discrepancy/dispute, the BUYER 
+shall lodge a claim with the 
+SELLER within the period of 14 
+(Fourteen) days  from the date of 
+receipt of invoice. To the extent 
+the claim admitted by the SELLER shall issue a credit note in favour of the BUYER and adjust the same 
+in the next i nvoice to be raised. Incase of any discrepancy/dispute, the BUYER shall lodge a quantified claim with the SELLER within the period of 14 (Fourteen) days from the date of the rece
+ipt of the related invoice. To the 
+extent the claims are admitted by the 
+SELLER, the SELLER shall issue a 
+Credit Note in favour of the BUYER 
+and adjust the same in the next invoice ARTICLE 12.03  
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 30 of 36 
+ 
+The SELLER  undertakes to settle 
+the claim of BUYER within a 
+period of 30 (Thirty) days from 
+the receipt of such claim, if found 
+acceptable.  to be raised. The SELLER undertake s 
+to settle the claims with the BUYER 
+within a period of 30 (Thirty) days from 
+the date of receipt of such claim, if and to the extent found acceptable. Failure 
+of the BUYER  to put forward any 
+claim within the time specified above 
+shall be an absolute waiver of any 
+claim as also the BUYER's righ t to 
+refer the matter to Arbitration . 
+ 
+48. It is evident that Article 12.03 as amended vide the Supplementary 
+Agreement  dated 30.03.1998 , clearly prescribes the consequences of the 
+respondent/claimant not lodging the claim within the period of 14 days from 
+the date of receipt of the relevant invoice s for transportation charge. It 
+specifically provides that failure to put -forward any claim within the said 
+time period, shall be " an absolute waiver of the claim ", as also 
+respondent/claimant's right to refer the matter to arbitration. Although the 
+issue of waiver squarely and clearly arose  for consideration in the context of 
+issue nos .5 and 11, the aforesaid contractual stipulation has not been taken 
+note of while deciding the said issue s, or anywhere else in the entire arbitral 
+award. Likewise, whether or not the respondent/claimant was entitled to 
+seek reference to arbitration in derogation of the aforesaid contractual 
+stipulation was an issue that directly arose for consideration, and also had a 
+direct be aring on the jurisdiction of the arbitral tribunal. The above 
+stipulation also has a vi tal bearing on the issue of limitation. However, the 
+impugned award does not even take note of the afore said provision,  much 
+less deal with it.  
+49. The impugned award also does not contain any cogent reason as to 
+why the objections raised by the petitioner with regard to limitation deserve 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 31 of 36 
+ 
+to be  rejected . As noticed herein above, the limitation issue was required to 
+be adjudg ed in the background of the following pleas in the  statement of 
+defence/reply filed on behalf of the petitioner before the arbitral tribunal : 
+(i) the contract was executed on 10th
+(ii) even during the period from 2000  till 2003, the grievance of the 
+respondent/claimant was that it was being required to pay 
+transportation charges both under the Agreement  dated 
+10.09.1991 read with Supplementary Agreement dated 
+30.03.1998 and also under the Tripartite Agreement dated  
+21.12.1999. A ll its various representation s were directed only at 
+this aspect of the matter and not against levy of transportation 
+charges un der the Agreement dated 10.09.1991 read with 
+Supplementary Agreement dated 30.03.1998.   September, 1991 and actual 
+supply of gas was commenced in the year 1994. However, the Claimant has raised issues with regard to transportation charges 
+only in the year 2000. Any claims pertaining to a period more 
+than three years prior to the date of comm encement of this 
+arbitration cannot be arbitrable in view of laws of limitation.  
+(iii) it is only when the statement of claim was filed in 2003 that the 
+respondent/claimant  sought to assert for the first time , that the 
+petitioner be held liable to refund the proportionate fixed 
+transportation charges having with regard to the qua ntity of gas 
+actually supplied .  
+Except for the sweeping observation that "invoices were provisional and 
+continued  to be provisional ", there is no reasoning in the award dealing with 
+the aforementioned aspects. The framework of the payment mechanism 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 32 of 36 
+ 
+provided under Article 12 was also not considered, including the aspect that 
+the so called "provisional invoices" evidently stood paid as per the 
+prescribed payment mechanism , and what was sought for the first time in 
+2003 (when the statement of claim was filed) was a partial refund of the 
+amount /s paid under these invoices, inter- alia, for the period 1994-2000.  
+50. In Reliance Industries Limited v. Gail (India) Limited , 2019 SCC 
+OnLine Del 9302 , an identical issue fell for consideration before  this Court, 
+while dealing with the challenge to an award which had rejected the plea of limitation (in the context of claims being advanced in respect of invoices 
+raised over several years) on the ground that the invoices were marked 
+provisional and were subject to adjustment through debit and credit notes, it 
+was held by this Court as under:-  
+"40. I am unable to agree with the submissions made by the learned senior 
+counsel for the respondent. By merely marking an invoice "provisional", 
+the parties cannot extend the period of limitation. Article 11.02 of the 
+Agreement clearly provides that the respondent shall raise invoice for each 
+fortnight, which the petitioner shall pay within three worki ng days of 
+presentation of the invoice. Therefore, the period of limitation would accrue 
+from the raising of each fortnightly invoice and on expiry of three days 
+thereafter, whether marked provisional or otherwise .
+51. In State of Gujarat vs. Kothari and Associates,  (2016) 14 SCC 761, 
+while dealing with a situation involving "successive or multiple breaches" it 
+was held by the Supreme Court as under :  " 
+ 
+The aforesaid observations are squarely applicable to the present case as 
+well.  
+"….the cause of action had arisen on each occasion when the appellant 
+State failed to hand over the site at the contractually stipulated time . 
+Specifically, the limitation periods arose on 15 -11-1976, 15- 11-1977, 15-
+11-1978 and 15- 11-1979 i.e. on the first day of each season, when the 
+respondent state committed a breach by failing to hand over the site.  
+Thus, the period of limitation did not commence at the termination of 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 33 of 36 
+ 
+the contract period or the date of final payment ." 
+In the present case  as well, assuming that excess amounts were claimed/ 
+realised by the petitioner under "provisional " invoices, the period of 
+limitation would begin from the d ate thereof .   
+52. There is merit in the c ontention of the petitioner that simply because 
+the invoices were " provisional " [as held in the impugned award] , the same 
+would not indefinitely extend the limitation period, and that too in the 
+framework of Article 12.03, which has not even been noticed in the 
+impugned award.   
+53. Further, a perusal of Article 12 reveals that upon the invoices being 
+raised by the "SELLER" i.e. petitioner herein , the "BUYER" i.e. the 
+respondent/ claimant , had the right to lodge a claim upon the receipt of the 
+said invoices. It is perhaps in that sense that the invoices were provisional (if 
+at all). However, the same would not imply that the respondent/claimant had 
+an indefinite period to raise a c laim in respect of those invoices.  
+54. Another contention which has been made on behalf the  respondent is 
+that the factum of credit notes having been issued to the respondent consequential to the amendment/ s made vide supplementary agreement 
+dated 31. 03.1998, shows that payment/s made for the period prior thereto 
+were all provisional and not finalised. This contention is wholly misconceived. The very fact that parties were constrained to amend the 
+contractual stipulations to provide for a different / al tered regime for 
+calculation of transportation charges, shows that sans the amendment, it was 
+not possible to deviate from the mechanism prescribed under the contract.  
+Yet, the amendment did not permit or provide for any pro-rata deduction of 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 34 of 36 
+ 
+the fixed tra nsportation charges in the manner claimed by the Respondent. 
+Also, importantly, the fact that credit notes were issued to the respondent 
+suggests that the controversy, if any, regarding transportation charges for the 
+period prior to the date of the amendme nt, was resolved. Yet, the respondent 
+sought to once again reopen the issue of its entitlement for that period (20.09.1991 -31.03.1998) when it filed its Statement of Claim on 19.09.2003.   
+55. For all the above reasons, this Court finds that the view taken in the 
+impugned award on issue nos. 7 & 8, is not even a possible view to take. 
+Further, a vital contractual provision (Article 12.03, as amended vide 
+supplementary agreement dated 30.03.1998) , having a crucial bearing on the 
+aspect of waiver, jurisdiction and limitation has not even been noticed in the 
+impugned award.  
+56. There is yet another important aspect of the matter. In  the statement 
+of claim filed on behalf of the respondent/claimant in para 16 thereof, 
+specific refer ence is made to the respondent/claim ant havin g paid an 
+aggregate sum of Rs. 58,70,22,196/- towards fixed transportation charges 
+over the period April 1995  to July 2003  under the Contract dated  
+10.09.1991 and under the Tripartite Agreement dated 21.12.1999. Having so 
+noted,  what was finally  claimed in the arbitration proceedings was set out in 
+para 26.03 of the s tatement of claim as follows  :- 
+"26.3 As would be evident from the supplies of gas made under the said 
+contract, the respondent has wrongfully collected the fixed transportation charge without supplying the contracted quantity of gas and thereby deprived the claimant of the benefit of utilization of its money for commercial purpose. Has the clai mant not been forced to pay the  fixed 
+transportation charge, 
+the claimant could have ut ilized the said money 
+in its business profitably and earned huge profit, which is reasonably 
+estimated at Rs. 55 Crores . As such, the claimant is entitled to and the 
+respondent is liable to pay the said sum to the claimant. Alternatively, the respondent is  liable to pay interest at the rate of 20% which is accepted   
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 35 of 36 
+ 
+rate of interest charged by the banks in case of commercial transaction."  
+57. Although, para 26.1 of the S tatement of Claim  filed by the 
+respondent/claimant makes a mention about transportation cha rges being 
+wrongly claimed by the petitioner, what was eventually claimed in para 
+26.3, is the loss of profit that the respondent/claimant could have earned as a 
+result of non -utilization of its money (transportation charges) for 
+commercial purposes . This is quite different from seeking restitution/refund 
+of the transportation charges or any part thereof. The impugned award does 
+not notice the real nature of the claim (viz. towards loss of profit) , and 
+proceeds to treat the same as being akin to a claim for  partial refund of the 
+transportation charges. This is at variance with the case set up the 
+respondent/ claimant itself.  
+58. It has also been rightly urged on behalf of the Petitioner, that  between 
+1994 till the filing of statement of claim, no grouse was raised as to 
+transportation charges being levied/charged under the Agreement dated 
+10.09.1991. As mentioned, the only grouse that was raised (as articulated in 
+various correspondence during the period of 2000-2003, placed on record 
+before the arbitral trib unal) was with regard to the transportation charges 
+being levied under the Tripartite Agreement dated 21.12.1999. The same 
+grievance has also been raised in the statement of claim as well.  Issue no.9 
+was accordingly framed for the purpose of deciding this very issue . 
+However , this prime grievance of the  respondent was given up, and 
+consequently, issue No. 9 was decided by the arbitral tribunal in the 
+following terms :- 
+"Issue No.9 : Does the claimant prove that the respondent was wrong in 
+levying and recovering transportation charges post -tri-partite agreement 
+for the same infrastructure against the same party under two different 
+ 
+O.M.P. (COMM) 249/2020                                                                           Page 36 of 36 
+ 
+agreements?  
+In regard to this issue, in the written s ubmissions dated 19- 6-2012, the 
+claimant has stated that since the claims arising out of the Tripartite 
+agreement are not the subject matter of this reference, this issue does not arise for consideration. The Respondent, in its Reply submissions, has not disputed this position. 
+On Issue No.9 we hold that this issue does not arise in this arbitration as 
+it relates to a dispute concerned in the tripartite agreement. We hold accordingly."  
+59. Thus, the nature of the claim, as regards the transportation charges, as  
+set out in the statement of claim, is at significant variance with what was 
+pursued by the respondent/claimant before the arbitral tribunal and the 
+resultant award.  
+60. In the circumstances, the impugned award does not withstand the 
+scrutiny mandated under S ection 34 of the A &C Act; the same is 
+consequently set aside.  61. The present petition stands allowed in the above terms.  
+62. All pending applications also stands disposed of.  
+ 
+    
+              SACHIN DATTA, J  
+DECEMBER 20, 2023  
+r/at  
+ 
